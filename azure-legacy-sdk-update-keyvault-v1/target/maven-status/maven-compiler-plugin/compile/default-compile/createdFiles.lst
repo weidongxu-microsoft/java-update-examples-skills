@@ -1,0 +1,5 @@
+com\microsoft\azure\keyvault\app\KeyVaultKeyManager.class
+com\microsoft\azure\keyvault\app\ClientSecretCredentials.class
+com\microsoft\azure\keyvault\app\KeyVaultSecretManager.class
+com\microsoft\azure\keyvault\app\KeyVaultRunner.class
+com\microsoft\azure\keyvault\app\KeyVaultCertificateManager.class

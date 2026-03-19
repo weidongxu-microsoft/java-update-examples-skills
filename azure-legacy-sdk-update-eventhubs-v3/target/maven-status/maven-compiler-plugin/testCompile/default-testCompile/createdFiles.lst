@@ -1,0 +1,3 @@
+com\azure\eventhubs\client\EventHubReceiverTest.class
+com\azure\eventhubs\client\EventHubConfigurationTest.class
+com\azure\eventhubs\client\EventHubSenderTest.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.ranger.kms.metrics.TestKMSMetricsWrapper
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 0, Errors: 0, Skipped: 12, Time elapsed: 0.111 s - in org.apache.ranger.kms.metrics.TestKMSMetricsWrapper

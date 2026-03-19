@@ -1,0 +1,2 @@
+com\azure\resourcemanager\clientinitialization\AzureInitialization.class
+com\azure\resourcemanager\resources\core\ResourceGroupTaggingInterceptor.class

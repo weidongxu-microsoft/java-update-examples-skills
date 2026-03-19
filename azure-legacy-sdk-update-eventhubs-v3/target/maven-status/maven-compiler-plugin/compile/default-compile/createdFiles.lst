@@ -1,0 +1,4 @@
+com\azure\eventhubs\client\EventHubReceiver.class
+com\azure\eventhubs\client\EventHubConfiguration.class
+com\azure\eventhubs\client\EventHubsApplication.class
+com\azure\eventhubs\client\EventHubSender.class

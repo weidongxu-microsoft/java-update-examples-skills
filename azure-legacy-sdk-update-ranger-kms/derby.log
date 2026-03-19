@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Tue Jan 27 15:32:07 CST 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-019b-fe5d-ef3d-000018b693a0 
+on database directory memory:C:\github\java-update-examples\azure-legacy-sdk-update-ranger-kms\derbyDB with class loader sun.misc.Launcher$AppClassLoader@3d4eac69 
+Loaded from file:/C:/Users/weidxu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Temurin
+java.runtime.version=1.8.0_472-b08
+user.dir=C:\github\java-update-examples\azure-legacy-sdk-update-ranger-kms
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jan 27 15:32:08 CST 2026:
+Shutting down instance a816c00e-019b-fe5d-ef3d-000018b693a0 on database directory memory:C:\github\java-update-examples\azure-legacy-sdk-update-ranger-kms\derbyDB with class loader sun.misc.Launcher$AppClassLoader@3d4eac69 

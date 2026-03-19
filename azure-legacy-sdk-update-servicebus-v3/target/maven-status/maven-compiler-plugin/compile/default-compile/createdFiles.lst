@@ -1,0 +1,5 @@
+com\azure\servicebus\client\ServiceBusConfiguration.class
+com\azure\servicebus\client\ServiceBusReceiver$ServiceBusMessageHandler.class
+com\azure\servicebus\client\ServiceBusSender.class
+com\azure\servicebus\client\ServiceBusApplication.class
+com\azure\servicebus\client\ServiceBusReceiver.class

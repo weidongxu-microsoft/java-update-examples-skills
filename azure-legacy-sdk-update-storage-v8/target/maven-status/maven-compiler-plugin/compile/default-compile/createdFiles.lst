@@ -1,0 +1,4 @@
+com\microsoft\azure\storagev8\fileshare\FileShareLifecycleManager.class
+com\microsoft\azure\storagev8\queue\QueueLifecycleManager.class
+com\microsoft\azure\storagev8\blob\StorageV8Runner.class
+com\microsoft\azure\storagev8\blob\BlobLifecycleManager.class

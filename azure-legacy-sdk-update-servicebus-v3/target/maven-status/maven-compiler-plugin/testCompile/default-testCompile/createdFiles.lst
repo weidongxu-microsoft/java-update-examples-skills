@@ -1,0 +1,3 @@
+com\azure\servicebus\client\ServiceBusConfigurationTest.class
+com\azure\servicebus\client\ServiceBusSenderTest.class
+com\azure\servicebus\client\ServiceBusReceiverTest.class
